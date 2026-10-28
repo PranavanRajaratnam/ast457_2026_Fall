@@ -20,7 +20,7 @@ Last updated: 2026-09-24.
 | review | Regression review test (in class, your own notebook, talking allowed; counts as one lab) | Tue Sep 29 | Wed Sep 30 | in class Sep 29; `lecture/06/review_test_sep29.ipynb`. **Truth:** $\alpha = 1.25$, $\beta = 6.40$, $\sigma_{\rm int} = 0.45$ dex; reference model drawing `lecture/images/review_sep29_pgm.png` |
 | 05 | MCMC: a binary-star radial-velocity fit | Sat Oct 3 | **Fri Oct 9** | extended: it reached GitHub on Oct 3, not Oct 1 |
 | — | no lab the week of Oct 8 (midterm) | | | |
-| 07 | Time series and Gaussian-process regression | Thu Oct 22 | Wed Oct 28 (tentative) | |
+| 07 | Time series and Gaussian-process regression | Thu Oct 22 | Wed Oct 28, Noon | |
 | 08 | Hierarchical Bayes and probabilistic graphical models | Thu Oct 29 | Wed Nov 4 (tentative) | |
 | 09 | ABC and simulation-based inference | Thu Nov 5 | Wed Nov 11 (tentative) | |
 | 10 | Machine-learning classification and imbalance | Thu Nov 12 | Wed Nov 18 (tentative) | |
@@ -36,7 +36,7 @@ Short, written, closed-everything, at the start of class, roughly every other we
 |---|---|---|
 | 1 | Tue Sep 8 | done; TA-proctored (GN traveling). +5 extra credit for El-Badry colloquium notes, due Noon Tue Sep 15 |
 | 2 | Tue Sep 22 | done; Days 5-8 (estimators, Cramér-Rao, MLE, χ², model comparison) |
-| 3 | Tue Oct 20 (tentative) | after the midterm; Bayes and MCMC (Days 12-14) |
+| 3 | Thu Oct 22 | start of class; after the midterm; Bayes and MCMC (Days 12-14) |
 | 4 | Tue Nov 3 | TA-proctored (GN on Zoom) |
 | 5 | Thu Nov 12 (tentative) | |
 | 6 | Tue Dec 1 (tentative) | |
